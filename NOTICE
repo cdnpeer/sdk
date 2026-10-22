@@ -1,0 +1,7 @@
+CDNPEER SDK
+Copyright (c) 2026 CDNPEER
+
+Este paquete incluye p2p-media-loader (core y hlsjs) 4.0.0
+Copyright (c) Novage — https://github.com/Novage/p2p-media-loader
+Licencia Apache 2.0: https://www.apache.org/licenses/LICENSE-2.0
+Archivos modificados por CDNPEER: el motor incluido en cdnpeer.min.js y pml-core-4.0.0-cdnpeer.es.min.js.
