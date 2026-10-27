@@ -6,7 +6,7 @@ P2P para vídeo en vivo HLS. Añade el P2P de CDNPEER al reproductor de tu web.
 
 ```html
 <script src="https://cdn.jsdelivr.net/npm/@clappr/player@0.8.0/dist/clappr.min.js"></script>
-<script src="https://cdn.jsdelivr.net/gh/cdnpeer/sdk@1.2.1/cdnpeer.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/cdnpeer/sdk@1.2.2/cdnpeer.min.js"></script>
 <div id="player"></div>
 <script>
   var player = cdnpeer.clappr(Clappr, {
